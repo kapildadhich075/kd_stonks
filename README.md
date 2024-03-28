@@ -12,10 +12,6 @@ kd_stonks is a web application that aims to replicate the functionality and user
 
 - Watchlists: Users can create and manage watchlists to keep track of their favorite stocks. They can add or remove stocks from their watchlists and receive notifications for price changes.
 
-- Portfolio tracking: kd_stonks allows users to track their portfolio performance, including the current value of their holdings, overall gains/losses, and individual stock performance.
-
-- Trade execution: Users can execute trades directly from the application, buying or selling stocks based on their preferences and available funds.
-
 ## Technologies Used
 
 - Firebase: kd_stonks utilizes Firebase real-time database storage, and hosting. Firebase provides a secure and scalable backend infrastructure for the application.
